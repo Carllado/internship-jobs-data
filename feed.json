@@ -1,32 +1,335 @@
 {
   "schemaVersion": 1,
   "kind": "internship-job-feed",
-  "generatedAt": "2026-11-11T15:22:11Z",
-  "collectorVersion": "0.1.0",
+  "generatedAt": "2026-11-11T22:12:00Z",
+  "collectorVersion": "0.3.0",
   "boards": [
     {
       "company": "Astera Labs",
+      "source": "greenhouse",
+      "source_id": "asteraearlycareer2027",
       "board_token": "asteraearlycareer2027",
       "status": "ok",
+      "health": "ok",
       "error": "",
       "jobs_on_board": 90,
-      "matched": 32
+      "matched": 36,
+      "size": "Mid-Market",
+      "industry": "semiconductor",
+      "lastCheckedAt": "2026-11-11T22:12:00Z",
+      "lastSuccessAt": "2026-11-11T22:12:00Z",
+      "consecutiveFailures": 0
     },
     {
       "company": "Formlabs",
+      "source": "greenhouse",
+      "source_id": "formlabsinternships",
       "board_token": "formlabsinternships",
       "status": "ok",
+      "health": "ok",
       "error": "",
-      "jobs_on_board": 3,
-      "matched": 1
+      "jobs_on_board": 13,
+      "matched": 7,
+      "size": "Mid-Market",
+      "industry": "hardware",
+      "lastCheckedAt": "2026-11-11T22:12:00Z",
+      "lastSuccessAt": "2026-11-11T22:12:00Z",
+      "consecutiveFailures": 0
+    },
+    {
+      "company": "Skydio",
+      "source": "ashby",
+      "source_id": "skydio",
+      "board_token": "skydio",
+      "status": "ok",
+      "health": "ok",
+      "error": "",
+      "jobs_on_board": 189,
+      "matched": 12,
+      "size": "Mid-Market",
+      "industry": "robotics",
+      "lastCheckedAt": "2026-11-11T22:12:00Z",
+      "lastSuccessAt": "2026-11-11T22:12:00Z",
+      "consecutiveFailures": 0
+    },
+    {
+      "company": "Etched",
+      "source": "ashby",
+      "source_id": "etched",
+      "board_token": "etched",
+      "status": "ok",
+      "health": "ok",
+      "error": "",
+      "jobs_on_board": 116,
+      "matched": 2,
+      "size": "Startup",
+      "industry": "semiconductor",
+      "lastCheckedAt": "2026-11-11T22:12:00Z",
+      "lastSuccessAt": "2026-11-11T22:12:00Z",
+      "consecutiveFailures": 0
+    },
+    {
+      "company": "Bedrock Robotics",
+      "source": "ashby",
+      "source_id": "bedrock-robotics",
+      "board_token": "bedrock-robotics",
+      "status": "ok",
+      "health": "ok",
+      "error": "",
+      "jobs_on_board": 57,
+      "matched": 7,
+      "size": "Startup",
+      "industry": "robotics",
+      "lastCheckedAt": "2026-11-11T22:12:00Z",
+      "lastSuccessAt": "2026-11-11T22:12:00Z",
+      "consecutiveFailures": 0
+    },
+    {
+      "company": "Humble Robotics",
+      "source": "lever",
+      "source_id": "humble-robotics",
+      "board_token": "humble-robotics",
+      "status": "ok",
+      "health": "ok",
+      "error": "",
+      "jobs_on_board": 23,
+      "matched": 2,
+      "size": "Startup",
+      "industry": "robotics",
+      "lastCheckedAt": "2026-11-11T22:12:00Z",
+      "lastSuccessAt": "2026-11-11T22:12:00Z",
+      "consecutiveFailures": 0
     }
   ],
   "counts": {
-    "open": 33,
+    "open": 66,
     "not_in_latest_results": 4,
-    "total": 37
+    "total": 70
   },
   "jobs": [
+    {
+      "id": "bedrock-hw-949feb1b",
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship Hardware Engineer",
+      "subfield": "Electrical / Hardware Engineering",
+      "location": "San Francisco, CA",
+      "companySize": "Startup",
+      "skills": [
+        "KiCad",
+        "PCB",
+        "Schematic Capture",
+        "Oscilloscope",
+        "Bench Test",
+        "C/C++",
+        "Python",
+        "Sensors",
+        "LiDAR",
+        "Soldering",
+        "Git",
+        "SPI",
+        "UART",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: bedrock-robotics)",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:bedrock-robotics",
+      "sourceJobId": "949feb1b-c60f-43c5-94de-7dd9cd70ba4a",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-10T22:49:39.846+00:00"
+    },
+    {
+      "id": "humble-ee-b9822bf4",
+      "company": "Humble Robotics",
+      "title": "Electrical Engineer, 2027 Internship",
+      "subfield": "Electrical / Hardware Engineering",
+      "location": "San Francisco",
+      "companySize": "Startup",
+      "skills": [
+        "PCB",
+        "Schematic Capture",
+        "Circuit Design",
+        "Oscilloscope",
+        "Bench Test",
+        "C/C++",
+        "Python",
+        "Soldering",
+        "SPI",
+        "UART"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Lever public postings API (site: humble-robotics)",
+      "url": "https://jobs.lever.co/humble-robotics/b9822bf4-c77c-42ea-a19f-1280ec3ab763",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "lever",
+      "sourceBoard": "lever:humble-robotics",
+      "sourceJobId": "b9822bf4-c77c-42ea-a19f-1280ec3ab763",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "Eligible to work in the US."
+          ],
+          "internationalStudentWording": [
+            "Some applicants may have a legal right to opt-out of the use of AI as part of our interview process."
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Full-time",
+      "applyUrl": "https://jobs.lever.co/humble-robotics/b9822bf4-c77c-42ea-a19f-1280ec3ab763/apply",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-10-20T19:30:21Z"
+    },
+    {
+      "id": "humble-embedded-8d1fb5d7",
+      "company": "Humble Robotics",
+      "title": "Embedded Software Engineer, 2027 Internship",
+      "subfield": "Firmware / Embedded",
+      "location": "San Francisco",
+      "companySize": "Startup",
+      "skills": [
+        "Schematic Capture",
+        "Circuit Design",
+        "Oscilloscope",
+        "Bench Test",
+        "C/C++",
+        "Sensors",
+        "Git",
+        "I2C",
+        "SPI",
+        "UART",
+        "Microcontrollers",
+        "Firmware"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Lever public postings API (site: humble-robotics)",
+      "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "lever",
+      "sourceBoard": "lever:humble-robotics",
+      "sourceJobId": "8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "Eligible to work in the US"
+          ],
+          "internationalStudentWording": [
+            "Some applicants may have a legal right to opt-out of the use of AI as part of our interview process."
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Full-time",
+      "applyUrl": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3/apply",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-10-20T19:25:29Z"
+    },
     {
       "id": "astera-design-4728560005",
       "company": "Astera Labs",
@@ -73,8 +376,8 @@
       "sourceJobId": "4728560005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -84,8 +387,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-08-27T20:32:05-04:00"
     },
@@ -133,8 +438,8 @@
       "sourceJobId": "4724534005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -144,10 +449,269 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-07T12:23:30-04:00"
+    },
+    {
+      "id": "bedrock-sensor-1f413f83",
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship Sensor Hardware Test Engineer",
+      "subfield": "Hardware Validation / Test",
+      "location": "San Francisco, CA",
+      "companySize": "Startup",
+      "skills": [
+        "Oscilloscope",
+        "Python",
+        "Sensors",
+        "LiDAR",
+        "Git"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: bedrock-robotics)",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:bedrock-robotics",
+      "sourceJobId": "1f413f83-b897-4938-a19e-ab91bd326c51",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-10T00:06:43.543+00:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4724488005",
+      "company": "Astera Labs",
+      "title": "System Validation Engineer Intern",
+      "subfield": "Hardware Validation / Test",
+      "location": "San Jose, CA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Circuit Design",
+        "Oscilloscope",
+        "C/C++",
+        "Python",
+        "Git",
+        "I2C",
+        "Firmware",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724488005",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:asteraearlycareer2027",
+      "sourceJobId": "4724488005",
+      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
+      "firstSeenAt": "2026-11-09T06:47:37Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-07T12:40:21-04:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4729021005",
+      "company": "Astera Labs",
+      "title": "System Validation Engineer Intern (Vancouver)",
+      "subfield": "Hardware Validation / Test",
+      "location": "San Jose, CA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Circuit Design",
+        "Oscilloscope",
+        "C/C++",
+        "Python",
+        "Git",
+        "I2C",
+        "Firmware",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:asteraearlycareer2027",
+      "sourceJobId": "4729021005",
+      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
+      "firstSeenAt": "2026-11-09T06:47:37Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-17T15:52:21-04:00"
+    },
+    {
+      "id": "ashby-skydio-57336f0f-a8ed-4ede-b6da-d399e5335fe4",
+      "company": "Skydio",
+      "title": "Electrical Engineer Intern",
+      "subfield": "Electrical / Hardware Engineering",
+      "location": "San Mateo, California, United States",
+      "companySize": "Mid-Market",
+      "skills": [
+        "PCB",
+        "Schematic Capture",
+        "Circuit Design",
+        "Oscilloscope",
+        "Sensors",
+        "I2C",
+        "SPI",
+        "Microcontrollers",
+        "Firmware"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "57336f0f-a8ed-4ede-b6da-d399e5335fe4",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-10-20T21:24:57.116+00:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731585005",
@@ -192,8 +756,8 @@
       "sourceJobId": "4731585005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -203,10 +767,74 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-08T00:27:14-04:00"
+    },
+    {
+      "id": "gh-formlabsinternships-8381504",
+      "company": "Formlabs",
+      "title": "Electrical Engineering Intern (Summer 2027)",
+      "subfield": "Electrical / Hardware Engineering",
+      "location": "Somerville, MA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Python",
+        "Sensors",
+        "Soldering",
+        "Microcontrollers",
+        "Firmware"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: formlabsinternships)",
+      "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8381504",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:formlabsinternships",
+      "sourceJobId": "8381504",
+      "sourceUpdatedAt": "2026-11-11T16:45:15-05:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "internationalStudentWording": [
+            "Many opt-in culture events across our diverse community"
+          ]
+        }
+      },
+      "industry": "hardware",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-11-11T16:44:59-05:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731584005",
@@ -253,8 +881,8 @@
       "sourceJobId": "4731584005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -264,8 +892,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-17T11:10:58-04:00"
     },
@@ -314,8 +944,8 @@
       "sourceJobId": "4738565005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -325,8 +955,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-28T14:36:47-04:00"
     },
@@ -373,8 +1005,8 @@
       "sourceJobId": "4724489005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -384,8 +1016,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-07T13:01:37-04:00"
     },
@@ -429,8 +1063,8 @@
       "sourceJobId": "8222268",
       "sourceUpdatedAt": "2026-11-06T15:46:44-05:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -439,8 +1073,14 @@
         "manualReviewFlags": [
           "CPT acceptance unconfirmed (never assumed)"
         ],
-        "evidence": {}
+        "reviewCategories": [],
+        "evidence": {
+          "internationalStudentWording": [
+            "Many opt-in culture events across our diverse community"
+          ]
+        }
       },
+      "industry": "hardware",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-21T22:51:09-04:00"
     },
@@ -484,8 +1124,8 @@
       "sourceJobId": "4728581005",
       "sourceUpdatedAt": "2026-10-29T21:20:59-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -495,10 +1135,320 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-07T13:56:15-04:00"
+    },
+    {
+      "id": "ashby-bedrock-robotics-c9c08251-6a42-4f9c-be4d-2621995cc8f9",
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship Hardware Engineer, Machine Integration & Test",
+      "subfield": "Hardware Validation / Test",
+      "location": "San Francisco, CA",
+      "companySize": "Startup",
+      "skills": [
+        "Schematic Capture",
+        "Bench Test",
+        "Sensors",
+        "CAD"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: bedrock-robotics)",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:bedrock-robotics",
+      "sourceJobId": "c9c08251-6a42-4f9c-be4d-2621995cc8f9",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-14T13:25:41.084+00:00"
+    },
+    {
+      "id": "gh-formlabsinternships-8381587",
+      "company": "Formlabs",
+      "title": "Hardware Reliability Intern (Summer 2027)",
+      "subfield": "Hardware Validation / Test",
+      "location": "Somerville, MA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Python",
+        "Sensors"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: formlabsinternships)",
+      "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8381587",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:formlabsinternships",
+      "sourceJobId": "8381587",
+      "sourceUpdatedAt": "2026-11-11T16:49:27-05:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "internationalStudentWording": [
+            "Many opt-in culture events across our diverse community"
+          ]
+        }
+      },
+      "industry": "hardware",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-11-11T16:49:27-05:00"
+    },
+    {
+      "id": "ashby-skydio-6f5caf41-fa1d-4208-9bdc-82c72e5d3f17",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ)",
+      "subfield": "Robotics / Controls",
+      "location": "San Mateo, California, United States",
+      "companySize": "Mid-Market",
+      "skills": [
+        "C/C++",
+        "Python",
+        "Sensors"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "6f5caf41-fa1d-4208-9bdc-82c72e5d3f17",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-10-26T16:16:13.403+00:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4731668005",
+      "company": "Astera Labs",
+      "title": "Product Quality Engineer Intern",
+      "subfield": "Engineering",
+      "location": "San Jose, CA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Schematic Capture",
+        "Circuit Design",
+        "Oscilloscope",
+        "C/C++",
+        "Python",
+        "MATLAB",
+        "Firmware",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731668005",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:asteraearlycareer2027",
+      "sourceJobId": "4731668005",
+      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
+      "firstSeenAt": "2026-11-09T06:47:37Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "weak",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-08T01:54:28-04:00"
+    },
+    {
+      "id": "gh-formlabsinternships-8381593",
+      "company": "Formlabs",
+      "title": "Hardware R&D Engineering Intern (Summer 2027)",
+      "subfield": "Electrical / Hardware Engineering",
+      "location": "Somerville, MA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Python",
+        "MATLAB",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: formlabsinternships)",
+      "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8381593",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:formlabsinternships",
+      "sourceJobId": "8381593",
+      "sourceUpdatedAt": "2026-11-11T16:52:13-05:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "internationalStudentWording": [
+            "Many opt-in culture events across our diverse community"
+          ]
+        }
+      },
+      "industry": "hardware",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-11-11T16:52:13-05:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731409005",
@@ -546,8 +1496,8 @@
       "sourceJobId": "4731409005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -557,25 +1507,22 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-08T00:32:33-04:00"
     },
     {
-      "id": "gh-asteraearlycareer2027-4724488005",
-      "company": "Astera Labs",
-      "title": "System Validation Engineer Intern",
-      "subfield": "Hardware Validation / Test",
-      "location": "San Jose, CA",
+      "id": "gh-formlabsinternships-8381595",
+      "company": "Formlabs",
+      "title": "Hardware Systems Integration Intern (Summer 2027)",
+      "subfield": "Electrical / Hardware Engineering",
+      "location": "Somerville, MA",
       "companySize": "Mid-Market",
       "skills": [
-        "Circuit Design",
-        "Oscilloscope",
-        "C/C++",
         "Python",
-        "Git",
-        "I2C",
         "Firmware",
         "Data Analysis"
       ],
@@ -586,8 +1533,8 @@
       "priority": false,
       "verified": true,
       "demo": false,
-      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724488005",
+      "source": "Greenhouse Job Board API (board: formlabsinternships)",
+      "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8381595",
       "eligibility": {
         "employerAcceptsCPT": null,
         "requiresCitizenship": false,
@@ -602,41 +1549,159 @@
       "reviewRequired": true,
       "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
       "sourceType": "greenhouse",
-      "sourceBoard": "greenhouse:asteraearlycareer2027",
-      "sourceJobId": "4724488005",
-      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
-      "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "sourceBoard": "greenhouse:formlabsinternships",
+      "sourceJobId": "8381595",
+      "sourceUpdatedAt": "2026-11-11T16:52:46-05:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
-        "termStatus": "unconfirmed",
-        "relevance": "weak",
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "strong",
         "manualReviewFlags": [
-          "CPT acceptance unconfirmed (never assumed)",
-          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+          "CPT acceptance unconfirmed (never assumed)"
         ],
-        "evidence": {}
+        "reviewCategories": [],
+        "evidence": {
+          "internationalStudentWording": [
+            "Many opt-in culture events across our diverse community"
+          ]
+        }
       },
+      "industry": "hardware",
       "region": "us-primary",
-      "sourcePublishedAt": "2026-09-07T12:40:21-04:00"
+      "sourcePublishedAt": "2026-11-11T16:52:46-05:00"
     },
     {
-      "id": "gh-asteraearlycareer2027-4729021005",
-      "company": "Astera Labs",
-      "title": "System Validation Engineer Intern (Vancouver)",
-      "subfield": "Hardware Validation / Test",
-      "location": "San Jose, CA",
+      "id": "gh-formlabsinternships-8161818",
+      "company": "Formlabs",
+      "title": "Manufacturing Engineering Intern (Summer 2027)",
+      "subfield": "Engineering",
+      "location": "Somerville, MA",
       "companySize": "Mid-Market",
       "skills": [
-        "Circuit Design",
-        "Oscilloscope",
-        "C/C++",
         "Python",
-        "Git",
-        "I2C",
-        "Firmware",
+        "CAD"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: formlabsinternships)",
+      "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8161818",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:formlabsinternships",
+      "sourceJobId": "8161818",
+      "sourceUpdatedAt": "2026-11-11T16:54:30-05:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "internationalStudentWording": [
+            "Many opt-in culture events across our diverse community"
+          ]
+        }
+      },
+      "industry": "hardware",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-11-11T16:54:30-05:00"
+    },
+    {
+      "id": "ashby-bedrock-robotics-d7da851b-55c2-45d4-bf8b-aa879282f25c",
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship Sensor Systems Engineer",
+      "subfield": "Engineering",
+      "location": "San Francisco, CA",
+      "companySize": "Startup",
+      "skills": [
+        "Python",
+        "Sensors"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: bedrock-robotics)",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:bedrock-robotics",
+      "sourceJobId": "d7da851b-55c2-45d4-bf8b-aa879282f25c",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-10T21:19:41.680+00:00"
+    },
+    {
+      "id": "ashby-skydio-6e76d5fa-981e-4986-955b-602aa6ddcb1b",
+      "company": "Skydio",
+      "title": "Process Engineering Intern - Summer 2027",
+      "subfield": "Engineering",
+      "location": "Hayward, California, United States",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Python",
+        "CAD",
         "Data Analysis"
       ],
       "deadline": null,
@@ -646,8 +1711,137 @@
       "priority": false,
       "verified": true,
       "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "6e76d5fa-981e-4986-955b-602aa6ddcb1b",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-10-14T20:29:12.049+00:00"
+    },
+    {
+      "id": "skydio-wireless-1ac972b1",
+      "company": "Skydio",
+      "title": "Wireless Hardware Engineer Intern - Summer 2027",
+      "subfield": "RF / Wireless",
+      "location": "San Mateo, California, United States",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Bench Test",
+        "Python",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "1ac972b1-8094-4765-8869-63e1c4d50dea",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-10-20T21:15:04.664+00:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4731407005",
+      "company": "Astera Labs",
+      "title": "Digital Design Engineering Intern",
+      "subfield": "Semiconductor / ASIC",
+      "location": "San Jose, CA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "C/C++",
+        "Python",
+        "Git",
+        "Firmware"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
       "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731407005",
       "eligibility": {
         "employerAcceptsCPT": null,
         "requiresCitizenship": false,
@@ -663,24 +1857,26 @@
       "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
       "sourceType": "greenhouse",
       "sourceBoard": "greenhouse:asteraearlycareer2027",
-      "sourceJobId": "4729021005",
+      "sourceJobId": "4731407005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
         "termStatus": "unconfirmed",
-        "relevance": "weak",
+        "relevance": "strong",
         "manualReviewFlags": [
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
-      "sourcePublishedAt": "2026-09-17T15:52:21-04:00"
+      "sourcePublishedAt": "2026-09-08T00:34:20-04:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731591005",
@@ -722,8 +1918,8 @@
       "sourceJobId": "4731591005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -733,8 +1929,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-08T00:46:32-04:00"
     },
@@ -776,8 +1974,8 @@
       "sourceJobId": "4724114005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -787,26 +1985,22 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-08-27T19:04:12-04:00"
     },
     {
-      "id": "gh-asteraearlycareer2027-4731668005",
-      "company": "Astera Labs",
-      "title": "Product Quality Engineer Intern",
-      "subfield": "Engineering",
-      "location": "San Jose, CA",
+      "id": "skydio-reliability-36d75e36",
+      "company": "Skydio",
+      "title": "Hardware Test and Reliability Intern - Summer 2027",
+      "subfield": "Hardware Validation / Test",
+      "location": "San Mateo, California, United States",
       "companySize": "Mid-Market",
       "skills": [
-        "Schematic Capture",
-        "Circuit Design",
-        "Oscilloscope",
-        "C/C++",
         "Python",
-        "MATLAB",
-        "Firmware",
         "Data Analysis"
       ],
       "deadline": null,
@@ -816,8 +2010,71 @@
       "priority": false,
       "verified": true,
       "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "36d75e36-eeb2-4399-8887-37c4a5ff5800",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-10-20T21:28:22.031+00:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4739915005",
+      "company": "Astera Labs",
+      "title": "AMS Digital Design Engineer Intern",
+      "subfield": "Engineering",
+      "location": "San Jose, CA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Circuit Design",
+        "Python"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
       "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731668005",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005",
       "eligibility": {
         "employerAcceptsCPT": null,
         "requiresCitizenship": false,
@@ -833,24 +2090,92 @@
       "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
       "sourceType": "greenhouse",
       "sourceBoard": "greenhouse:asteraearlycareer2027",
-      "sourceJobId": "4731668005",
+      "sourceJobId": "4739915005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
         "termStatus": "unconfirmed",
-        "relevance": "content",
+        "relevance": "strong",
         "manualReviewFlags": [
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
-      "sourcePublishedAt": "2026-09-08T01:54:28-04:00"
+      "sourcePublishedAt": "2026-10-13T14:21:38-04:00"
+    },
+    {
+      "id": "ashby-skydio-05f020b1-9023-49c5-bac4-42dbd8552d3a",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich)",
+      "subfield": "Robotics / Controls",
+      "location": "Zurich, Switzerland",
+      "companySize": "Mid-Market",
+      "skills": [
+        "C/C++",
+        "Python",
+        "Sensors"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/05f020b1-9023-49c5-bac4-42dbd8552d3a",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "05f020b1-9023-49c5-bac4-42dbd8552d3a",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/05f020b1-9023-49c5-bac4-42dbd8552d3a/application",
+      "region": "europe",
+      "sourcePublishedAt": "2026-10-26T16:16:01.929+00:00"
     },
     {
       "id": "astera-validation-4740145005",
@@ -892,8 +2217,8 @@
       "sourceJobId": "4740145005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -903,8 +2228,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-10-05T14:42:36-04:00"
     },
@@ -946,8 +2273,8 @@
       "sourceJobId": "4746899005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -957,10 +2284,188 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-10-22T19:20:47-04:00"
+    },
+    {
+      "id": "ashby-etched-904ddf46-55fc-4a8f-8b49-f32cfe88116a",
+      "company": "Etched",
+      "title": "Electrical Platform Intern",
+      "subfield": "Electrical / Hardware Engineering",
+      "location": "San Jose",
+      "companySize": "Startup",
+      "skills": [
+        "PCB"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: etched)",
+      "url": "https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:etched",
+      "sourceJobId": "904ddf46-55fc-4a8f-8b49-f32cfe88116a",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-02-07T01:29:58.073+00:00"
+    },
+    {
+      "id": "ashby-etched-699f3ab2-07e4-466c-9d76-3d4a3abb4ebc",
+      "company": "Etched",
+      "title": "Firmware Intern",
+      "subfield": "Firmware / Embedded",
+      "location": "San Jose",
+      "companySize": "Startup",
+      "skills": [
+        "C/C++",
+        "Firmware"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: etched)",
+      "url": "https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:etched",
+      "sourceJobId": "699f3ab2-07e4-466c-9d76-3d4a3abb4ebc",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "strong",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-02-07T01:19:52.199+00:00"
+    },
+    {
+      "id": "ashby-bedrock-robotics-8c7bad61-50e3-4702-be36-72e9b72a9760",
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship State Estimation, Learned Mapping & Semantic SLAM",
+      "subfield": "Engineering",
+      "location": "San Francisco, CA",
+      "companySize": "Startup",
+      "skills": [
+        "C/C++",
+        "Python",
+        "Sensors",
+        "LiDAR"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: bedrock-robotics)",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:bedrock-robotics",
+      "sourceJobId": "8c7bad61-50e3-4702-be36-72e9b72a9760",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "content",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-25T20:21:21.039+00:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4727602005",
@@ -999,8 +2504,8 @@
       "sourceJobId": "4727602005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1010,10 +2515,76 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-08-27T18:38:18-04:00"
+    },
+    {
+      "id": "ashby-skydio-33f1f123-8cec-4e6a-b125-e8831603a62a",
+      "company": "Skydio",
+      "title": "Systems Engineering Intern - Summer 2027",
+      "subfield": "Engineering",
+      "location": "San Mateo, California, United States",
+      "companySize": "Mid-Market",
+      "skills": [
+        "C/C++",
+        "Python",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "33f1f123-8cec-4e6a-b125-e8831603a62a",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "weak",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-11-09T19:53:20.602+00:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4722012005",
@@ -1056,8 +2627,8 @@
       "sourceJobId": "4722012005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1067,8 +2638,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-04T19:28:17-04:00"
     },
@@ -1115,8 +2688,8 @@
       "sourceJobId": "4724492005",
       "sourceUpdatedAt": "2026-10-29T14:28:08-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1126,10 +2699,71 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-08-27T18:58:49-04:00"
+    },
+    {
+      "id": "gh-formlabsinternships-8256076",
+      "company": "Formlabs",
+      "title": "Manufacturing Test Software Intern (Summer 2027)",
+      "subfield": "Hardware Validation / Test",
+      "location": "Somerville, MA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Python",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: formlabsinternships)",
+      "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8256076",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:formlabsinternships",
+      "sourceJobId": "8256076",
+      "sourceUpdatedAt": "2026-11-11T10:40:38-05:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "weak",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "internationalStudentWording": [
+            "Many opt-in culture events across our diverse community"
+          ]
+        }
+      },
+      "industry": "hardware",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-11-11T10:40:38-05:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4727655005",
@@ -1173,8 +2807,8 @@
       "sourceJobId": "4727655005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1184,10 +2818,72 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-07T12:36:46-04:00"
+    },
+    {
+      "id": "ashby-bedrock-robotics-0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship Onboard Infrastructure Engineer, ML Inference",
+      "subfield": "PCB / Hardware Design",
+      "location": "San Francisco, CA",
+      "companySize": "Startup",
+      "skills": [
+        "C/C++",
+        "Sensors",
+        "LiDAR"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: bedrock-robotics)",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:bedrock-robotics",
+      "sourceJobId": "0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "content",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-10T21:22:05.089+00:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4728357005",
@@ -1224,8 +2920,8 @@
       "sourceJobId": "4728357005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1235,10 +2931,135 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-08-27T13:58:28-04:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4732216005",
+      "company": "Astera Labs",
+      "title": "Product Applications Engineer Intern (Leo)",
+      "subfield": "Engineering",
+      "location": "San Jose, CA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "C/C++",
+        "Python",
+        "I2C",
+        "Firmware"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732216005",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:asteraearlycareer2027",
+      "sourceJobId": "4732216005",
+      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
+      "firstSeenAt": "2026-11-09T06:47:37Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "weak",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-09T13:53:59-04:00"
+    },
+    {
+      "id": "ashby-skydio-ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)",
+      "subfield": "Engineering",
+      "location": "San Mateo, California, United States",
+      "companySize": "Mid-Market",
+      "skills": [
+        "C/C++",
+        "Python"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "weak",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-10-26T16:15:31.109+00:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731413005",
@@ -1281,8 +3102,8 @@
       "sourceJobId": "4731413005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1292,8 +3113,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-08T00:50:42-04:00"
     },
@@ -1338,8 +3161,8 @@
       "sourceJobId": "4731394005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1349,8 +3172,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-08T00:52:17-04:00"
     },
@@ -1392,8 +3217,8 @@
       "sourceJobId": "4743360005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1403,10 +3228,193 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-10-13T13:55:09-04:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4731410005",
+      "company": "Astera Labs",
+      "title": "Product Engineering Intern",
+      "subfield": "Semiconductor / ASIC",
+      "location": "San Jose, CA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "C/C++",
+        "Python",
+        "MATLAB",
+        "Firmware",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731410005",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:asteraearlycareer2027",
+      "sourceJobId": "4731410005",
+      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "content",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-08T01:50:34-04:00"
+    },
+    {
+      "id": "ashby-bedrock-robotics-66deac22-a655-413e-8f46-3d956860619a",
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship Test Operations Engineer",
+      "subfield": "Hardware Validation / Test",
+      "location": "Lockhart, TX",
+      "companySize": "Startup",
+      "skills": [
+        "Schematic Capture",
+        "Python",
+        "Git"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: bedrock-robotics)",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/66deac22-a655-413e-8f46-3d956860619a",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:bedrock-robotics",
+      "sourceJobId": "66deac22-a655-413e-8f46-3d956860619a",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "weak",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/66deac22-a655-413e-8f46-3d956860619a/application",
+      "region": "us-other",
+      "sourcePublishedAt": "2026-10-05T22:19:32.291+00:00"
+    },
+    {
+      "id": "ashby-skydio-8f4f62b0-a2ea-498d-b78f-6f661b724a3c",
+      "company": "Skydio",
+      "title": "Manufacturing Intern - Summer 2027",
+      "subfield": "Engineering",
+      "location": "Hayward, California, United States",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "8f4f62b0-a2ea-498d-b78f-6f661b724a3c",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "weak",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "FullTime",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c/application",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-10-26T17:24:39.678+00:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731412005",
@@ -1448,8 +3456,8 @@
       "sourceJobId": "4731412005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1459,8 +3467,10 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-08T00:49:20-04:00"
     },
@@ -1504,8 +3514,8 @@
       "sourceJobId": "4728387005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1515,66 +3525,12 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-04T19:51:36-04:00"
-    },
-    {
-      "id": "gh-asteraearlycareer2027-4731407005",
-      "company": "Astera Labs",
-      "title": "Digital Design Engineering Intern",
-      "subfield": "Semiconductor / ASIC",
-      "location": "San Jose, CA",
-      "companySize": "Mid-Market",
-      "skills": [
-        "C/C++",
-        "Python",
-        "Git",
-        "Firmware"
-      ],
-      "deadline": null,
-      "housing": "Not disclosed",
-      "relocation": "Not disclosed",
-      "status": "To Apply",
-      "priority": false,
-      "verified": true,
-      "demo": false,
-      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731407005",
-      "eligibility": {
-        "employerAcceptsCPT": null,
-        "requiresCitizenship": false,
-        "requiresUSPerson": false,
-        "requiresClearance": false,
-        "exportControlled": false,
-        "workAuthorizationStatementFound": false,
-        "sponsorshipRestrictionFound": false,
-        "cptMentioned": false
-      },
-      "notes": "",
-      "reviewRequired": true,
-      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
-      "sourceType": "greenhouse",
-      "sourceBoard": "greenhouse:asteraearlycareer2027",
-      "sourceJobId": "4731407005",
-      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
-      "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
-      "reviewedAt": "2026-11-11",
-      "openStatus": "open",
-      "autoAnalysis": {
-        "termStatus": "unconfirmed",
-        "relevance": "content",
-        "manualReviewFlags": [
-          "CPT acceptance unconfirmed (never assumed)",
-          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
-        ],
-        "evidence": {}
-      },
-      "region": "us-primary",
-      "sourcePublishedAt": "2026-09-08T00:34:20-04:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731583005",
@@ -1615,8 +3571,8 @@
       "sourceJobId": "4731583005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1626,24 +3582,21 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-primary",
       "sourcePublishedAt": "2026-09-09T17:35:18-04:00"
     },
     {
-      "id": "gh-asteraearlycareer2027-4732216005",
-      "company": "Astera Labs",
-      "title": "Product Applications Engineer Intern (Leo)",
-      "subfield": "Engineering",
-      "location": "San Jose, CA",
+      "id": "ashby-skydio-3eb06d6e-b6f0-4814-a80a-f1c43075873b",
+      "company": "Skydio",
+      "title": "Flight Test Intern - Summer 2027",
+      "subfield": "Hardware Validation / Test",
+      "location": "San Mateo, California, United States",
       "companySize": "Mid-Market",
-      "skills": [
-        "C/C++",
-        "Python",
-        "I2C",
-        "Firmware"
-      ],
+      "skills": [],
       "deadline": null,
       "housing": "Not disclosed",
       "relocation": "Not disclosed",
@@ -1651,51 +3604,60 @@
       "priority": false,
       "verified": true,
       "demo": false,
-      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732216005",
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b",
       "eligibility": {
         "employerAcceptsCPT": null,
         "requiresCitizenship": false,
         "requiresUSPerson": false,
         "requiresClearance": false,
         "exportControlled": false,
-        "workAuthorizationStatementFound": false,
+        "workAuthorizationStatementFound": true,
         "sponsorshipRestrictionFound": false,
         "cptMentioned": false
       },
       "notes": "",
       "reviewRequired": true,
       "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
-      "sourceType": "greenhouse",
-      "sourceBoard": "greenhouse:asteraearlycareer2027",
-      "sourceJobId": "4732216005",
-      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
-      "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "3eb06d6e-b6f0-4814-a80a-f1c43075873b",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
-        "termStatus": "unconfirmed",
-        "relevance": "content",
+        "termStatus": "summer-2027-confirmed",
+        "relevance": "weak",
         "manualReviewFlags": [
           "CPT acceptance unconfirmed (never assumed)",
-          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+          "Work-authorization language present: read it before applying"
         ],
-        "evidence": {}
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
       },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application",
       "region": "us-primary",
-      "sourcePublishedAt": "2026-09-09T13:53:59-04:00"
+      "sourcePublishedAt": "2026-09-04T19:01:54.953+00:00"
     },
     {
-      "id": "gh-asteraearlycareer2027-4739915005",
-      "company": "Astera Labs",
-      "title": "AMS Digital Design Engineer Intern",
+      "id": "ashby-skydio-fa88cb47-36f0-4020-95c3-6ac94d59d5d5",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)",
       "subfield": "Engineering",
-      "location": "San Jose, CA",
+      "location": "Zurich, Switzerland",
       "companySize": "Mid-Market",
       "skills": [
-        "Circuit Design",
+        "C/C++",
         "Python"
       ],
       "deadline": null,
@@ -1705,41 +3667,52 @@
       "priority": false,
       "verified": true,
       "demo": false,
-      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005",
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5",
       "eligibility": {
         "employerAcceptsCPT": null,
         "requiresCitizenship": false,
         "requiresUSPerson": false,
         "requiresClearance": false,
         "exportControlled": false,
-        "workAuthorizationStatementFound": false,
+        "workAuthorizationStatementFound": true,
         "sponsorshipRestrictionFound": false,
         "cptMentioned": false
       },
       "notes": "",
       "reviewRequired": true,
       "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
-      "sourceType": "greenhouse",
-      "sourceBoard": "greenhouse:asteraearlycareer2027",
-      "sourceJobId": "4739915005",
-      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
-      "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "fa88cb47-36f0-4020-95c3-6ac94d59d5d5",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
-        "termStatus": "unconfirmed",
-        "relevance": "content",
+        "termStatus": "2027-mentioned",
+        "termDetected": [],
+        "relevance": "weak",
         "manualReviewFlags": [
           "CPT acceptance unconfirmed (never assumed)",
-          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+          "Term not confirmed as Summer 2027 in posting text (2027-mentioned)",
+          "Work-authorization language present: read it before applying"
         ],
-        "evidence": {}
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
       },
-      "region": "us-primary",
-      "sourcePublishedAt": "2026-10-13T14:21:38-04:00"
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5/application",
+      "region": "europe",
+      "sourcePublishedAt": "2026-10-26T16:16:19.601+00:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731587005",
@@ -1783,8 +3756,8 @@
       "sourceJobId": "4731587005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1794,10 +3767,67 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-other",
       "sourcePublishedAt": "2026-09-08T01:17:42-04:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4731995005",
+      "company": "Astera Labs",
+      "title": "Data Engineer Intern",
+      "subfield": "Engineering",
+      "location": "San Jose, CA",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:asteraearlycareer2027",
+      "sourceJobId": "4731995005",
+      "sourceUpdatedAt": "2026-11-10T21:11:29-05:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "weak",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-25T17:03:45-04:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731588005",
@@ -1839,8 +3869,8 @@
       "sourceJobId": "4731588005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1850,10 +3880,124 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-other",
       "sourcePublishedAt": "2026-09-08T01:18:52-04:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4727569005",
+      "company": "Astera Labs",
+      "title": "Physical Design Engineer Intern",
+      "subfield": "Semiconductor / ASIC",
+      "location": "San Jose, CA, United States",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Python",
+        "Git"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727569005",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:asteraearlycareer2027",
+      "sourceJobId": "4727569005",
+      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "content",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-07T13:06:25-04:00"
+    },
+    {
+      "id": "gh-asteraearlycareer2027-4729022005",
+      "company": "Astera Labs",
+      "title": "Physical Design Engineer Intern (DM)",
+      "subfield": "Semiconductor / ASIC",
+      "location": "San Jose, CA, United States",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Python",
+        "Git"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Greenhouse Job Board API (board: asteraearlycareer2027)",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729022005",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": false,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "greenhouse",
+      "sourceBoard": "greenhouse:asteraearlycareer2027",
+      "sourceJobId": "4729022005",
+      "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "content",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
+        ],
+        "reviewCategories": [],
+        "evidence": {}
+      },
+      "industry": "semiconductor",
+      "region": "us-primary",
+      "sourcePublishedAt": "2026-09-07T12:07:46-04:00"
     },
     {
       "id": "gh-asteraearlycareer2027-4731586005",
@@ -1896,8 +4040,8 @@
       "sourceJobId": "4731586005",
       "sourceUpdatedAt": "2026-10-28T16:33:57-04:00",
       "firstSeenAt": "2026-11-09T06:47:37Z",
-      "lastSeenAt": "2026-11-11T15:22:11Z",
-      "fetchedAt": "2026-11-11T15:22:11Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
       "reviewedAt": "2026-11-11",
       "openStatus": "open",
       "autoAnalysis": {
@@ -1907,10 +4051,77 @@
           "CPT acceptance unconfirmed (never assumed)",
           "Term not confirmed as Summer 2027 in posting text (unconfirmed)"
         ],
+        "reviewCategories": [],
         "evidence": {}
       },
+      "industry": "semiconductor",
       "region": "us-other",
       "sourcePublishedAt": "2026-09-08T23:03:49-04:00"
+    },
+    {
+      "id": "ashby-skydio-aabcda71-f098-4c42-a094-46dc9d832c94",
+      "company": "Skydio",
+      "title": "Camera & Imaging Intern",
+      "subfield": "Engineering",
+      "location": "Tampere, Finland",
+      "companySize": "Mid-Market",
+      "skills": [
+        "Circuit Design",
+        "Python",
+        "Data Analysis"
+      ],
+      "deadline": null,
+      "housing": "Not disclosed",
+      "relocation": "Not disclosed",
+      "status": "To Apply",
+      "priority": false,
+      "verified": true,
+      "demo": false,
+      "source": "Ashby public job-posting API (board: skydio)",
+      "url": "https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94",
+      "eligibility": {
+        "employerAcceptsCPT": null,
+        "requiresCitizenship": false,
+        "requiresUSPerson": false,
+        "requiresClearance": false,
+        "exportControlled": false,
+        "workAuthorizationStatementFound": true,
+        "sponsorshipRestrictionFound": false,
+        "cptMentioned": false
+      },
+      "notes": "",
+      "reviewRequired": true,
+      "sourceVerificationNote": "Auto-collected from the employer's own Greenhouse board. Confirm the posting is still open, and verify CPT with the employer and UCSD before applying.",
+      "sourceType": "ashby",
+      "sourceBoard": "ashby:skydio",
+      "sourceJobId": "aabcda71-f098-4c42-a094-46dc9d832c94",
+      "sourceUpdatedAt": null,
+      "firstSeenAt": "2026-11-11T22:12:00Z",
+      "lastSeenAt": "2026-11-11T22:12:00Z",
+      "fetchedAt": "2026-11-11T22:12:00Z",
+      "reviewedAt": "2026-11-11",
+      "openStatus": "open",
+      "autoAnalysis": {
+        "termStatus": "unconfirmed",
+        "relevance": "content",
+        "manualReviewFlags": [
+          "CPT acceptance unconfirmed (never assumed)",
+          "Term not confirmed as Summer 2027 in posting text (unconfirmed)",
+          "Work-authorization language present: read it before applying"
+        ],
+        "reviewCategories": [],
+        "evidence": {
+          "workAuthorization": [
+            "uses E-Verify to confirm employment eligibility.",
+            "To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/"
+          ]
+        }
+      },
+      "industry": "robotics",
+      "employmentType": "Intern",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94/application",
+      "region": "europe",
+      "sourcePublishedAt": "2026-09-14T21:44:49.452+00:00"
     },
     {
       "id": "formlabs-ee-8148251",
@@ -2137,5 +4348,39 @@
       "sourcePublishedAt": "2026-09-08T01:41:58-04:00",
       "closedDetectedAt": "2026-11-09T22:28:50Z"
     }
-  ]
+  ],
+  "coverage": {
+    "total": 34,
+    "checked": 6,
+    "unavailable": 0,
+    "not_yet_checked": 0,
+    "manual": 28,
+    "disabled": 0,
+    "by_size": {
+      "Mid-Market": {
+        "total": 4,
+        "checked": 3,
+        "unavailable": 0,
+        "manual": 1,
+        "disabled": 0,
+        "not_yet_checked": 0
+      },
+      "Startup": {
+        "total": 3,
+        "checked": 3,
+        "unavailable": 0,
+        "manual": 0,
+        "disabled": 0,
+        "not_yet_checked": 0
+      },
+      "Enterprise / Big Tech": {
+        "total": 27,
+        "checked": 0,
+        "unavailable": 0,
+        "manual": 27,
+        "disabled": 0,
+        "not_yet_checked": 0
+      }
+    }
+  }
 }
